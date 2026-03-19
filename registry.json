@@ -256,5 +256,17 @@
     "github_repo": "collierfoxy60-collab/lantern-class",
     "repo_url": "https://collierfoxy60-collab.github.io/lantern-class/",
     "has_system": false
+  },
+  {
+    "name": "battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-",
+    "description": "list of races of these books",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-",
+    "repo_url": "https://derpsyhome.github.io/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-/",
+    "has_system": false
   }
 ]
