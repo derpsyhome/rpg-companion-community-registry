@@ -268,5 +268,17 @@
     "github_repo": "derpsyhome/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-",
     "repo_url": "https://derpsyhome.github.io/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-/",
     "has_system": false
+  },
+  {
+    "name": "3rd-party-books",
+    "description": "homblewood, myconid race, tomes of heros, deep magic, ebon tides, grand species almanac, homblewood, myconid race, valdas spire of secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/3rd-party-books",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books/",
+    "has_system": false
   }
 ]
