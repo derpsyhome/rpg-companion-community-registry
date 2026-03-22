@@ -280,5 +280,17 @@
     "github_repo": "derpsyhome/3rd-party-books",
     "repo_url": "https://derpsyhome.github.io/3rd-party-books/",
     "has_system": false
+  },
+  {
+    "name": "3RD-party-books-update",
+    "description": "all races and homebrew 3rd party",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "derpsyhome/3RD-party-books-update",
+    "repo_url": "https://derpsyhome.github.io/3RD-party-books-update/",
+    "has_system": false
   }
 ]
