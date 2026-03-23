@@ -282,5 +282,17 @@
     "github_repo": "AcidFoxAlpha/Obojima-core-set",
     "repo_url": "https://AcidFoxAlpha.github.io/Obojima-core-set/",
     "has_system": false
+  },
+  {
+    "name": "returner-system",
+    "description": "homebrew based on 5e and a book series ",
+    "tags": [
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "ValdousVirathor/returner-system",
+    "repo_url": "https://ValdousVirathor.github.io/returner-system/",
+    "has_system": false
   }
 ]
